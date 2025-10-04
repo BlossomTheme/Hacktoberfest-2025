@@ -1,0 +1,13 @@
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\bin\Debug\BlossomTheme.dll
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\bin\Debug\BlossomTheme.pdb
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\bin\Debug\BlossomTheme.vsix
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\bin\Debug\extension.vsixmanifest
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\BlossomTheme.csproj.AssemblyReference.cache
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\_EmptyResource.resources
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\BlossomTheme.csproj.GenerateResource.cache
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\BlossomTheme.csproj.CoreCompileInputs.cache
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\BlossomTheme.dll
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\BlossomTheme.pdb
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\extension.vsixmanifest
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\files.json
+C:\Users\Sanemi\Documents\Blossom\BlossomTheme\BlossomTheme\obj\Debug\createTemplateManifests.cache
